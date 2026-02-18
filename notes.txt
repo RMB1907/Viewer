@@ -1,0 +1,11 @@
+$ node -v
+$ npm -v
+
+$ mkdir viewer
+$ cd viewer
+$ npm init -y
+
+$ npm install three
+$ npm install vite
+
+$ npm run dev
